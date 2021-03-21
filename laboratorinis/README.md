@@ -9,7 +9,7 @@
 
 Atsakymas:
 
-![histograma](img/1 uzduotis.png)
+![histograma](img/1uzduotis.png)
 
 Išvados: Iš histogramos matyti, jog tarp Automobilių ir lengvųjų variklinių transporto priemonių pardavimo veikla užsiimančių įmonių didžiausias vidutinio mėn. atlyginimo pasiskirstymas buvo ~600-700 eurų ribose. (Data skewed to the right, t.y. atlyginimų vidurkis didesnis už atlyginimų medianą). 
 
@@ -17,7 +17,7 @@ Išvados: Iš histogramos matyti, jog tarp Automobilių ir lengvųjų variklini�
 
 Atsakymas:
 
-![atlyginimai](img/2 uzduotis.png)
+![atlyginimai](img/2uzduotis.png)
 
 Išvados: Top 5 įmonės, užsiimančios Automobilių ir lengvųjų variklinių transporto priemonių pardavimo veikla ir 2020 metais mokėjusios didžiausią vidutinį darbo užmokestį, yra šios: 
  
@@ -29,7 +29,7 @@ Grafike matyti sąlyginai dideli (daugiau nei 1000 eurų) Top 3 įmonių vidutin
 
 Atsakymas:
 
-![apdraustieji](img/3 uzduotis.png)
+![apdraustieji](img/3uzduotis.png)
 
 Išvados: Maksimalus apdraustų darbuotojų skaičius Top 5 įmonėse (pagal 2020 metais mokėtą didžiausią vidutinį darbo užmokestį) buvo toks:
 
@@ -40,4 +40,4 @@ Išvados: Maksimalus apdraustų darbuotojų skaičius Top 5 įmonėse (pagal 202
 
 Shiny R aplikacijos nuotrauka:
 
-![shiny app](img/4 uzduotis.png)
+![shiny app](img/4uzduotis.png)
